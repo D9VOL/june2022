@@ -36,7 +36,7 @@
 //         console.log('третя чверть');
 //     } else if (time > 45 && time<= 59) {
 //         console.log('четверта чверть');
-//     } else if (time >= 60) {
+//     } else {
 //         console.log('write corect namber');
 //     }
 
@@ -50,7 +50,7 @@
 //      console.log('друга декада');
 //  } else if (day > 20 && day <=31){
 //      console.log('третя декада');
-//  } else if (day > 31){
+//  } else {
 //      console.log('write corect namber');
 //  }
 
@@ -134,8 +134,8 @@
 //     }
 //     console.log(x);
 
-let x = NaN || 'default';
-console.log(x);
+// let x = NaN || 'default';
+// console.log(x);
 
 
 
