@@ -3,21 +3,21 @@
 //     Перевірте  скрипт при a, що дорівнює 1, 0, -3
 
 // let x = 1;
-//     if (x!=0){
+//     if (x!==0){
 //         document.write('Вірно');
 //     } else {
 //         document.write('Невірно');
 //     }
 //
 // let x = 0;
-// if (x!=0){
+// if (x!==0){
 //     document.write('Вірно');
 // } else {
 //     document.write('Невірно');
 // };
 //
 // let x = -3;
-//     if (x!=0){
+//     if (x!==0){
 //         document.write('Вірно');
 //     } else {
 //       document.write('Невірно');
