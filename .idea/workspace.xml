@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dd3b042-db96-4bcf-a289-cd69ab930d33" name="Changes" comment="lesson5">
-      <change afterPath="$PROJECT_DIR$/JS/lessons5/additional/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/lessons5/additional/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/lessons6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/lessons6/main.js" afterDir="false" />
+    <list default="true" id="0dd3b042-db96-4bcf-a289-cd69ab930d33" name="Changes" comment="lesson6">
+      <change afterPath="$PROJECT_DIR$/JS/lessons8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/lessons8/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Andriy/IdeaProjects/june2022&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
@@ -90,7 +89,9 @@
       <workItem from="1659953917238" duration="1279000" />
       <workItem from="1659992845223" duration="115000" />
       <workItem from="1660031557676" duration="8196000" />
-      <workItem from="1660118229482" duration="14822000" />
+      <workItem from="1660118229482" duration="16911000" />
+      <workItem from="1660726027732" duration="17521000" />
+      <workItem from="1660822193994" duration="4067000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1657543378316</created>
@@ -176,7 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659949389891</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lesson5">
+      <created>1660137147791</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660137147791</updated>
+    </task>
+    <task id="LOCAL-00014" summary="lesson6">
+      <created>1660137206837</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1660137206837</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +216,7 @@
     <MESSAGE value="lesson3+complit+" />
     <MESSAGE value="lesson4" />
     <MESSAGE value="lesson5" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson5" />
+    <MESSAGE value="lesson6" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson6" />
   </component>
 </project>
