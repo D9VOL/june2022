@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dd3b042-db96-4bcf-a289-cd69ab930d33" name="Changes" comment="lesson6">
-      <change afterPath="$PROJECT_DIR$/JS/lessons8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/lessons8/main.js" afterDir="false" />
+    <list default="true" id="0dd3b042-db96-4bcf-a289-cd69ab930d33" name="Changes" comment="lesson8">
+      <change afterPath="$PROJECT_DIR$/JS/lessons9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/lessons9/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +91,10 @@
       <workItem from="1660031557676" duration="8196000" />
       <workItem from="1660118229482" duration="16911000" />
       <workItem from="1660726027732" duration="17521000" />
-      <workItem from="1660822193994" duration="4067000" />
+      <workItem from="1660822193994" duration="4865000" />
+      <workItem from="1661102367630" duration="1508000" />
+      <workItem from="1661160743922" duration="10989000" />
+      <workItem from="1661268411902" duration="10146000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1657543378316</created>
@@ -191,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660137206837</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="lesson8">
+      <created>1660826298969</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1660826298969</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +227,7 @@
     <MESSAGE value="lesson4" />
     <MESSAGE value="lesson5" />
     <MESSAGE value="lesson6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson6" />
+    <MESSAGE value="lesson8" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson8" />
   </component>
 </project>
