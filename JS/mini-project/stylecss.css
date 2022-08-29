@@ -1,0 +1,140 @@
+
+
+.container{
+    width: 700px;
+    height: 800px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.member {
+    height: 100px;
+    width: 320px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+
+}
+
+.mainUser {
+    width: 700px;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid black;
+
+
+}
+
+.second {
+    width: 700px;
+    height: auto;
+    margin-top: 20px;
+    /*border: 2px solid black;*/
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+
+}
+
+.btn2{
+    text-align: center;
+    width: 90%;
+}
+
+.userPost {
+    visibility: hidden;
+
+}
+
+.userPost.visible {
+    visibility: visible;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.post {
+    height: 150px;
+    width: 120px;
+    border: 2px solid black;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 5px;
+    position:relative
+}
+
+.post>p{
+    text-align: center;
+}
+
+.btn3 {
+    position:absolute;
+    bottom: 4px;
+}
+
+
+.postDetails{
+    width: 700px;
+    height: auto;
+    margin: auto;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 10px;
+
+
+}
+
+.postDetails>h2{
+    text-align: center;
+}
+
+.coment{
+    height: auto;
+    width: 700px;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.block{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+
+.block>p{
+    width: 150px;
+    height: auto;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+    border-radius: 10px;
+}
